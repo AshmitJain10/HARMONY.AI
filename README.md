@@ -3,6 +3,8 @@
 ## Overview
 HARMONY.AI is an AI-powered mental health chatbot designed to provide empathetic responses and support to users. It leverages LangChain, ChromaDB, and the Llama-3 model to process and retrieve relevant information from PDF documents.
 
+Demo Link - [HARMONY.AI](https://huggingface.co/spaces/alpinodeli/Mental_Health_AI_Chatbot)
+
 ## Features
 - **Natural Language Processing**: Uses LangChain and Llama-3 for intelligent responses.
 - **Document Retrieval**: Loads and processes PDF documents for enhanced contextual understanding.
